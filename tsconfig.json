@@ -23,7 +23,8 @@
     ],
     "paths": {
       "~/*": ["src/*"]
-    }
+    },
+    "include": ["*.d.ts"]
   },
   "exclude": ["dist", "node_modules"]
 }
