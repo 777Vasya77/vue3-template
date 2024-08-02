@@ -5,6 +5,6 @@
 <script setup lang="ts">
 // https://github.com/vueuse/head
 useHead({
-  title: 'SyncID',
+  title: 'Vue 3 TS template',
 });
 </script>
